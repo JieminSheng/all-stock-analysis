@@ -15,16 +15,16 @@ The purpose of this analysis is to generate a visual representation in tabular f
 
 The original script for the module 2 solution appears as such.
 
-![Original Script 1.png](resources/Original Script 1.png)
-![Original Script 2.png](resources/Original Script 2.png)
+![Original_Script_1.png](resources/Original_Script_1.png)
+![Original_Script_2.png](resources/Original_Script_2.png)
 
 This code delivers only the 2018 values for the stock tickers. The execution time is displayed below.
 
-![Original Script 2018.png](resources/Original Script 2018.png)
+![Original_Script_2018.png](resources/Original_Script_2018.png)
 
 An edit of the original script to return 2017 values was made and the execution time for 2017 values is displayed below.
 
-![Original Script 2017.png](resources/Original Script 2017.png)
+![Original_Script_2017.png](resources/Original_Script_2017.png)
 
 ### Refactored Script Performance
 
@@ -36,24 +36,24 @@ The current refactored script appears as such which returns the same values for 
 
 It can be initialed to deliver both 2017 and 2018 values. The execution times are displayed below.
 
-![VBA Challenge 2017.png](resources/VBA_Challenge_2017.png)
-![VBA Challenge 2018.png](resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2017.png](resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018.png](resources/VBA_Challenge_2018.png)
 
 ### Stock Performance in 2017
 
-![All Stocks (2017).png](resources/All Stocks (2017).png)
+![All_Stocks_(2017).png](resources/All_Stocks_(2017).png)
 
 In 2017, the stocks performed with the following metrics: AY had a daily trade volume of 136,070,900 and a total return of 8.9%, CSIQ had a daily trade volume of 310,592,800 and a total return of 33.1%, DQ had a daily trade volume of 35,796,200 and a total return of 199.4%, ENPH had a daily trade volume of 221,772,100 and a total return of 129.5%, FSLR had a daily trade volume of 684,181,400 and a total return of 101.3%, HASI had a daily trade volume of 80,949,300 and a total return of 25.8%, JKS had a daily trade volume of 191,632,200 and a total return of 53.9%, RUN had a daily trade volume of 267,681,300 and a total return of 5.5%, SEDG had a daily trade volume of 206,885,200 and a total return of 184.5%, SPWR had a daily trade volume of 782,187,000 and a total return of 23.1%, TERP had a daily trade volume of 139,402,800 and a total return of (7.2)%, and VSLR had a daily trade volume of 109,487,900 and a total return of 50.0%.
 
 ### Stock Performance in 2018
 
-![ All Stocks (2018).png](resources/All Stocks (2018).png)
+![ All_Stocks_(2018).png](resources/All_Stocks_(2018).png)
 
 In 2018, the stocks performed with the following metrics: AY had a daily trade volume of 83,079,900 and a total return of (7.3)%, CSIQ had a daily trade volume of 200,879,900 and a total return of (16.3)%, DQ had a daily trade volume of 107,873,900 and a total return of (62.6)%, ENPH had a daily trade volume of 607,473,500 and a total return of 81.9%, FSLR had a daily trade volume of 478,113,900 and a total return of (39.7)%, HASI had a daily trade volume of 104,340,600 and a total return of (20.7)%, JKS had a daily trade volume of 158,309,000 and a total return of (60.5)%, RUN had a daily trade volume of 502,757,100 and a total return of 84.0%, SEDG had a daily trade volume of 237,212,300 and a total return of (7.8)%, SPWR had a daily trade volume of 538,024,300 and a total return of (44.6)%, TERP had a daily trade volume of 151,434,700 and a total return of (5.0)%, and VSLR had a daily trade volume of 136,539,100 and a total return of (3.5)%.
 
 ### Comparison between 2017 and 2018
 
-![All Stocks (Comparisons).png](resources/All Stocks (Comparisons).png)
+![All_Stocks_(Comparisons).png](resources/All_Stocks_(Comparisons).png)
 
 From 2017 to 2018, the stocks in the sample generally performed worse in terms of both total daily trading volume and returns although not all had done so. The differences of the 2018 values in comparison to the 2017 values are as follows: AY had an annual difference in daily trade volume of (52,991,000) and an annual difference in total return of (16.2)%, CSIQ had an annual difference in daily trade volume of (109,712,900) and an annual difference in total return of (49.4)%, DQ had an annual difference in daily trade volume of 72,077,700 and an annual difference in total return of (262.0)%, ENPH had an annual difference in daily trade volume of 385,701,400 and an annual difference in total return of (47.6)%, FSLR had an annual difference in daily trade volume of (206,067,500) and an annual difference in total return of (141.0)%, HASI had an annual difference in daily trade volume of 23,391,300 and an annual difference in total return of (46.5)%, JKS had an annual difference in daily trade volume of (33,323,200) and an annual difference in total return of (114.4)%, RUN had an annual difference in daily trade volume of 235,075,800 and an annual difference in total return of 78.4%, SEDG had an annual difference in daily trade volume of 30,327,100 and an annual difference in total return of (192.2)%, SPWR had an annual difference in daily trade volume of (244,162,700) and an annual difference in total return of (67.7)%, TERP had an annual difference in daily trade volume of 12,031,900 and an annual difference in total return of 2.2%, and VSLR had an annual difference in daily trade volume of 27,051,900 and an annual difference in total return of (53.5)%.
 
